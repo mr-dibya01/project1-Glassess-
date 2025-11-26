@@ -86,3 +86,16 @@ html, body {
     background-size: cover;
     background-position: 0 40%;
 }
+
+
+MONGO_URI=mongodb+srv://Mr-dibya:gobinda8144601427@cluster0.pfph7.mongodb.net/E-commerce?retryWrites=true&w=majority&appName=Cluster0
+PORT=4000
+CLOUDINARY_API_KEY=135556727638948
+CLOUDINARY_API_SECRET=3oy1RkswB-L75vLrgqMrXsiGTYk
+CLOUDINARY_NAME=do4bepmry
+JWT_SECRET=L75vLrgqMrXsiGTYk
+ADMIN_EMAIL=admin@gmail.com
+ADMIN_PASSWORD=admin12345
+
+
+VITE_SERVER_URL=http://localhost:4000/ 
